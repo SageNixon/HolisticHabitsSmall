@@ -1,0 +1,65 @@
+@charset "UTF-8";
+/* CSS Document */
+
+body {
+    background-image: url(images/LeftBackground.jpg);
+    background-repeat: repeat-y;
+    margin-left: 200px;
+    margin-top: 50px;
+}
+h1 {
+    color: #2E452E;
+    font-family: playfair-display;
+    font-style: normal;
+    font-weight: 400;
+    font-variant: normal;
+    font-size: 30pt;
+}
+
+h2 {
+    color: #3B553B;
+    font-family: playfair-display;
+    font-style: normal;
+    font-weight: 400;
+    font-variant: normal;
+    font-size: 25pt;
+}
+h3 {
+    color: #AA6708;
+    font-family: playfair-display;
+    font-style: normal;
+    font-weight: 400;
+    font-variant: normal;
+    font-size: 30pt;
+}
+h4 {
+    color: #BF7B19;
+    font-family: playfair-display;
+    font-style: normal;
+    font-weight: 400;
+    font-variant: normal;
+    font-size: 25pt;
+}
+p {
+    font-family: Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", serif;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: normal;
+    font-size: 12pt;
+}
+.18PTsubheadingBEIGE {
+    color: #C3BFAA;
+    font-family: playfair-display;
+    font-style: normal;
+    font-weight: 400;
+    font-variant: normal;
+    font-size: 18pt;
+}
+.18PTsubheadingGREEN {
+    color: #A1BDA0;
+    font-family: playfair-display;
+    font-style: normal;
+    font-weight: 400;
+    font-variant: normal;
+    font-size: 18pt;
+}
